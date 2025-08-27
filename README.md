@@ -1,0 +1,1 @@
+A Digital Gold application project with Java and Spring Frameworks. In this project the user request in json to buy , invest in digital Gold and LLM chat will let him purchase and save him in database.
